@@ -14,5 +14,10 @@ namespace xunitdemo
             return x - y;
         }
 
+        public decimal Multiplicative(decimal x, decimal y)
+        {
+            return x * y;
+        }
+
     }
 }
