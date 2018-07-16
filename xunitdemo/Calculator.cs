@@ -8,5 +8,11 @@ namespace xunitdemo
         {
             return x + y;
         }
+
+        public decimal Subtract(decimal x,decimal y)
+        {
+            return x - y;
+        }
+
     }
 }
